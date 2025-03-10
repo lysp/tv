@@ -1,4 +1,4 @@
-央视,#genre#
+央 视,#genre#
 CCTV-1 综合,http://111.20.33.70/PLTV/88888893/224/3221226231/index.m3u8
 CCTV-1 综合,http://111.20.33.70/PLTV/88888893/224/3221226239/index.m3u8
 CCTV-1 综合,http://111.20.33.70/PLTV/88888893/224/3221226457/index.m3u8
@@ -104,7 +104,14 @@ CETV-4,http://111.20.33.70/PLTV/88888893/224/3221226225/index.m3u8
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-陕西地方台,#genre#
+西安台,#genre#
+西安1,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225668/index.m3u8
+西安丝路频道,http://111.20.33.70/PLTV/88888893/224/3221226370/index.m3u8
+西安影视频道,http://111.20.33.70/PLTV/88888893/224/3221226369/index.m3u8
+西安商务资讯,http://111.20.33.70/PLTV/88888893/224/3221226368/index.m3u8
+西安都市频道,http://111.20.33.70/PLTV/88888893/224/3221226367/index.m3u8
+西安新闻综合,http://111.20.33.70/PLTV/88888893/224/3221226366/index.m3u8
+陕西,#genre#
 陕西卫视,http://111.20.33.70/PLTV/88888893/224/3221226388/index.m3u8
 陕西卫视,http://111.20.33.70/PLTV/88888893/224/3221225821/index.m3u8
 陕西卫视,http://111.20.33.70/PLTV/88888893/224/3221226246/index.m3u8
@@ -122,6 +129,7 @@ CETV-4,http://111.20.33.70/PLTV/88888893/224/3221226225/index.m3u8
 陕西体育休闲,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225535/index.m3u8
 西部电影,http://111.20.33.70/PLTV/88888893/224/3221226364/index.m3u8
 西乡融媒,http://111.20.33.70/PLTV/88888893/224/3221226556/index.m3u8
+陕西地方台,#genre#
 城固电视台,http://111.20.33.70/PLTV/88888893/224/3221226920/index.m3u8
 洋县电视台-1,http://111.20.33.70/PLTV/88888893/224/3221226938/index.m3u8
 佛坪电视台,http://111.20.33.70/PLTV/88888893/224/3221226454/index.m3u8
@@ -321,7 +329,7 @@ CCTV1,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225996/index.m3u8
 家庭理财,http://111.20.33.70/PLTV/88888893/224/3221226244/index.m3u8
 家庭理财,http://111.20.33.70/PLTV/88888893/224/3221226247/index.m3u8
 弈坛春秋,http://111.20.33.70/PLTV/88888893/224/3221226245/index.m3u8
-香 港,#genre#
+香港台,#genre#
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰卫视资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰卫视,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv
